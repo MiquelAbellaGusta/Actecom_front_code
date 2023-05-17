@@ -3,21 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="construccion">
+      <h1>ACTECOM</h1>
+      <h3>- Página web en creación -</h3>
+      <p>Bienvenid@ a Actecom, especialistas en informática y telecomunicaciones. En breve podréis estar al dia de nuestras novedades, nuestras ofertas y nuestros servicios.</p>
     </div>
   );
 }
