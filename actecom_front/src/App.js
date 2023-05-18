@@ -1,12 +1,10 @@
 import './App.css';
-import Logo from './components/Logo.jsx';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
     <div className="container">
-      <div className='Navbar'>
-     <Logo/>
-                </div>
+      <NavBar />
     </div>
   );
 }

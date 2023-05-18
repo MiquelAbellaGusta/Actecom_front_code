@@ -1,11 +1,12 @@
-const Logo=()=>{
+const Logo = () => {
 
-    return(
+  return (
 
     <div className='logo'>
-    <h1>Actecom</h1>
+      <h1>Actecom</h1>
       <h3>Informática y telecomunicaciones</h3>
-        </div>
-)}
+    </div>
+  )
+}
 
 export default Logo;
